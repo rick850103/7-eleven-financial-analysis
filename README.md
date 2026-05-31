@@ -1,7 +1,5 @@
-# 7-eleven-financial-analysis
-統一超商(2912)三年財務深度分析系統 | Excel + MySQL + Power BI
-
 # 統一超商（2912）財務深度分析系統
+Excel + MySQL + Power BI
 
 ## 專案概述
 
@@ -58,7 +56,8 @@ ROA 從5.09%降至4.56%（YoY -10.54%），
 若新展店點短期內無法達到損益平衡，資本配置效益將持續承壓。
 
 ## 儀表板預覽
-
+![儀表板第一頁](dashboard_page1.png)
+![儀表板第二頁](dashboard_page2.png)
 
 ## 作者背景
 具會計師事務所審計實務經驗，熟悉財務報表編製邏輯與 IFRS 會計準則，
